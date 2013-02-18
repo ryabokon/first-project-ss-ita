@@ -4,3 +4,7 @@ function SearchController() {
 	search.setAllCards(/*cards array*/);
 	search.getAllCards ();
 }
+/*
+any changes
+
+*/
