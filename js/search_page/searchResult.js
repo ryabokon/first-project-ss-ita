@@ -11,4 +11,5 @@ function SearchResult () {
   this.getAllCards = function () {
     return cards_array;
   }
+  return this;
 }
